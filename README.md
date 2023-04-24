@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my achievements are available at [https://www.linkedin.com/in/jihad-y-al-najjar-885147226/](https://www.linkedin.com/in/jihad-y-al-najjar-885147226/)
 
-- 📝 I regularly write articles on [Personal Branding and Career Development](Personal Branding and Career Development)
+- 📝 I regularly write articles on Personal Branding and Career Development
 
 - 📫 How to reach me **jihadnajjar2021@gmail.com**
 
