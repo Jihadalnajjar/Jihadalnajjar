@@ -1,16 +1,20 @@
-<h1 align="center">Hi 👋, I'm Jihad Al-Najjar</h1>
-<h3 align="center">A Junior Cyber Security and Networks Engineer from Egypt</h3>
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-- 🌱 I’m currently learning **Penetration Testing and Red Teaming**
+<h1 align="center">
+  Hi!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  I'm JiHad Al-Najjar and Welcome to my Personal Github Profile
+</h1>
 
-- 👨‍💻 All of my achievements are available at [https://www.linkedin.com/in/jihad-y-al-najjar-885147226/](https://www.linkedin.com/in/jihad-y-al-najjar-885147226/)
-
-- 📝 I regularly write articles on Personal Branding and Career Development
-
-- 📫 How to reach me **jihadnajjar2021@gmail.com**
-
-- ⚡ Fun fact **I think I'm really funny🤣**
-
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20Security%20Junior%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+- 🌱 I’m currently learning Penetration Testing and Red Teaming<br>
+- 👨‍💻 All of my achievements are available at https://www.linkedin.com/in/jihad-y-al-najjar-885147226/<br>
+- 📝 I regularly write articles on Personal Branding and Career Development<br>
+- 📫 You can contact me on my Email or Linkedin</br>
+- ⚡ Fun fact I think I'm really funny🤣<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_joozeef_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_joozeef_" height="30" width="40" /></a>
