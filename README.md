@@ -10,11 +10,12 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20Security%20Junior%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-- 🌱 I’m currently learning Penetration Testing and Red Teaming<br>
+- 🌱 I’m currently learning Penetration Testing and Red Teaming🚀<br>
 - 👨‍💻 All of my achievements are available at https://www.linkedin.com/in/jihad-y-al-najjar-885147226/<br>
-- 📝 I regularly write articles on Personal Branding and Career Development<br>
+- 📝 I regularly write articles on Personal Branding and Career Development💡<br>
 - ⚡ Fun fact I think I'm really funny🤣<br>
-<h3 align="left">📫 Connect with me:</h3>
+<h3 align="left">
+  📫 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_joozeef_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_joozeef_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jihad-y-al-najjar-885147226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jihad-y-al-najjar-885147226" height="30" width="40" /></a>
